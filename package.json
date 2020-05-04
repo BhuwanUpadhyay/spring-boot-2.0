@@ -1,0 +1,21 @@
+{
+  "name": "spring-boot-2.0",
+  "version": "0.0.0-snapshot",
+  "description": "Spring Boot 2.0",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BhuwanUpadhyay/spring-boot-2.0.git"
+  },
+  "author": "Bhuwan Prasad Upadhyay",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/BhuwanUpadhyay/spring-boot-2.0/issues"
+  },
+  "homepage": "https://github.com/BhuwanUpadhyay/spring-boot-2.0#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^8.3.5",
+    "@commitlint/config-conventional": "^8.3.4",
+    "husky": "^4.2.5"
+  }
+}
