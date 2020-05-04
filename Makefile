@@ -22,26 +22,13 @@ build: ## Build the project
 	./cicd/ci/build.sh
 
 full-build: ## Full build the project
-	@read -p "Sonar Login: " passwd; \
 	CI_SECURE_ENV_VARS=true \
 	SONAR_ORGANIZATION=bhuwanupadhyay \
 	SONAR_HOST=https://sonarcloud.io \
-	SONAR_LOGIN=$$passwd \
+	SONAR_LOGIN=f17cd2e0f6be79d6aac81a60e8b0edf9caa651d3 \
 	./cicd/ci/build.sh
 
 ##@ Releasing
 
 version: ## Get the current version
 	./cicd/ci/before_ci.sh
-
-release: ## Perform release
-	@read -p "Sonatype Password: " passwd; \
-	CI_SECURE_ENV_VARS=true \
-	PULL_REQUEST=false \
-	SONATYPE_USER=developerbhuwan \
-	SONATYPE_PASSWORD=$$passwd \
-	./cicd/ci/build.sh
-
-rollback: ## Rollback release
-	IS_ROLLBACK=true \
-	./cicd/ci/build.sh
