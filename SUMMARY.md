@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Spring Boot 2.0](README.md)
 
