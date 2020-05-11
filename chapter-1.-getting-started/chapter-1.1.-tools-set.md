@@ -53,5 +53,3 @@ $ spring --version
 Spring CLI v2.2.7.RELEASE
 ```
 
-
-
