@@ -12,4 +12,9 @@
 * [Chapter - 7. API Gateway with Netflix Zuul Proxy](chapter-7.-api-gateway-with-netflix-zuul-proxy.md)
 * [Chapter - 8. HTTP API with Feign Client](chapter-8.-http-api-with-feign-client.md)
 * [Chapter - 9. Resilient System with Hystrix and Turbine](chapter-9.-resilient-system-with-hystrix-and-turbine.md)
+* [Chapter - 10. Testing Spring Boot Microservice](chapter-10.-testing-spring-boot-microservice.md)
+* [Chapter - 11. Containerizing Microservice](chapter-11.-containerizing-microservice.md)
+* [Chapter - 12. API Management](chapter-12.-api-management.md)
+* [Chapter - 13. Deploying in Cloud](chapter-13.-deploying-in-cloud.md)
+* [Chapter - 14. Service Monitoring](chapter-14.-service-monitoring.md)
 
