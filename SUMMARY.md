@@ -9,4 +9,6 @@
 * [Chapter - 4. Spring Cloud and Configuration](chapter-4.-spring-cloud-and-configuration.md)
 * [Chapter - 5. Spring Cloud Netflix and Service Discovery](chapter-5.-spring-cloud-netflix-and-service-discovery.md)
 * [Chapter - 6. RESTful Spring Boot Microservice](chapter-6.-restful-spring-boot-microservice.md)
+* [Chapter - 7. API Gateway with Netflix Zuul Proxy](chapter-7.-api-gateway-with-netflix-zuul-proxy.md)
+* [Chapter - 8. HTTP API with Feign Client](chapter-8.-http-api-with-feign-client.md)
 
