@@ -11,4 +11,5 @@
 * [Chapter - 6. RESTful Spring Boot Microservice](chapter-6.-restful-spring-boot-microservice.md)
 * [Chapter - 7. API Gateway with Netflix Zuul Proxy](chapter-7.-api-gateway-with-netflix-zuul-proxy.md)
 * [Chapter - 8. HTTP API with Feign Client](chapter-8.-http-api-with-feign-client.md)
+* [Chapter - 9. Resilient System with Hystrix and Turbine](chapter-9.-resilient-system-with-hystrix-and-turbine.md)
 
